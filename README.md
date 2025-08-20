@@ -1,6 +1,6 @@
 # Matheus Dias
 
-**`Analista de dados`**
+**`data analyst`**
 
 Sou profissional com experiência em análise de dados aplicada à otimização de processos logísticos, com foco em eficiência operacional, indicadores de desempenho e inteligência de mercado. Tenho domínio em Power BI, Excel avançado e ferramentas de visualização de dados para gerar insights estratégicos, apoiar a tomada de decisão e automatizar relatórios.
 
@@ -93,7 +93,7 @@ Sempre em busca de inovação, utilizo a análise de dados como ferramenta-chave
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathdiasj&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathdiasj&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=1" 
   />
 
 </p>
