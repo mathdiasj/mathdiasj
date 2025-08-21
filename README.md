@@ -62,7 +62,7 @@ Sempre em busca de inovação, utilizo a análise de dados como ferramenta-chave
     align="left" 
     alt="Python" 
     title="Python"
-    width="30px" 
+    width="30px" https://github.com/mathdiasj/mathdiasj/blob/main/README.md
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
@@ -93,7 +93,7 @@ Sempre em busca de inovação, utilizo a análise de dados como ferramenta-chave
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathdiasj&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=1](https://github-readme-stats.vercel.app/api?username=mathdiasj&show_icons=true&theme=transparent)](https://github-readme-stats.vercel.app/api/top-langs/?username=mathdiasj&hide_progress=true)" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathdiasj&hide_progress=true" 
   />
 
 </p>
