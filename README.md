@@ -93,7 +93,7 @@ Sempre em busca de inovação, utilizo a análise de dados como ferramenta-chave
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathdiasj&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathdiasj&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=1" 
   />
 
 </p>
