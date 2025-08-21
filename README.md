@@ -7,9 +7,12 @@ Sou profissional com experiência em análise de dados aplicada à otimização 
 Atuei em projetos que envolveram controle de estoque, roteirização, análise de KPIs logísticos e melhoria contínua de processos. Tenho facilidade em transformar dados brutos em informações acionáveis, conectando áreas operacionais e estratégicas com base em dados concretos.
 
 Sempre em busca de inovação, utilizo a análise de dados como ferramenta-chave para entregar resultados reais e mensuráveis..
-
+<br/>
+<br/>
+<img align="center" alt="gif-one" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwM4eHZVIKFfCxx-Jn8BZaOGpl0I6fv4QUuQ&s">
+<br/>
+<br/>
 ### 🤖 Linguagens e Tecnologias
-
 <img 
     align="left" 
     alt="HTML"
