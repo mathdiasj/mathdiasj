@@ -58,14 +58,16 @@ Sempre em busca de inovação, utilizo a análise de dados como ferramenta-chave
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" https://github.com/mathdiasj/mathdiasj/blob/main/README.md
+    alt="Git" 
+    title="Git"
+    width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
 />
+
 <img 
     align="left" 
     alt="SQL" 
