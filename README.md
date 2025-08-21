@@ -9,7 +9,7 @@ Atuei em projetos que envolveram controle de estoque, roteirização, análise d
 Sempre em busca de inovação, utilizo a análise de dados como ferramenta-chave para entregar resultados reais e mensuráveis..
 <br/>
 <br/>
-<img height= "200" align="right" alt="gif-one" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHk3YWVuNGkxcnRhcDRtNWhlcDB4M2czYzkyN25vajYzcTFuMXhieSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C3brYLms1bhv2/giphy.gif">
+<img height= "170" align="right" alt="gif-one" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHk3YWVuNGkxcnRhcDRtNWhlcDB4M2czYzkyN25vajYzcTFuMXhieSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C3brYLms1bhv2/giphy.gif">
 <br/>
 <br/>
 ### 🤖 Linguagens e Tecnologias
